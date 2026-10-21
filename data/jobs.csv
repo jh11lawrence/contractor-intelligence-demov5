@@ -1,1 +1,451 @@
-
+JobID,Customer,JobType,Estimator,StartDate,EndDate,Status,QuotedHours,BudgetMaterials,QuotedRevenue,DemoDriver
+J0001,Canal Utilities,Lighting Upgrade,Estimator 3,2026-08-04,2026-08-15,Completed,77.6,1439.48,6269.15,normal
+J0002,Westway Healthcare,Small Works,Estimator 1,2026-08-26,2026-09-02,Completed,23.6,1268.33,3740.56,complexity
+J0003,Northfield Logistics,Small Works,Estimator 1,2026-04-23,2026-05-02,Completed,29.6,365.51,1973.27,normal
+J0004,Alder Facilities,Installation,Estimator 4,2026-05-15,2026-05-28,Completed,176.3,6968.86,20325.83,normal
+J0005,Orion Manufacturing,Installation,Estimator 3,2026-02-24,2026-03-14,Completed,185.7,8375.42,22767.74,remedial
+J0006,Northfield Logistics,Installation,Estimator 4,2025-11-30,2025-12-14,Completed,139.3,6623.25,15914.65,scope_change
+J0007,Canal Utilities,EICR & Remedials,Estimator 3,2026-04-04,2026-04-13,Completed,65.3,890.84,4858.39,normal
+J0008,Mercury Retail Group,EICR & Remedials,Estimator 3,2026-01-20,2026-02-02,Completed,40.4,895.01,3512.45,scope_change
+J0009,Westway Healthcare,Small Works,Estimator 2,2026-05-01,2026-05-11,Completed,8.2,418.78,1486.57,normal
+J0010,Ashbrook Schools,Installation,Estimator 1,2025-10-17,2025-10-30,Completed,139.7,7278.43,16128.61,material_inflation
+J0011,Westway Healthcare,Emergency Callout,Estimator 3,2026-02-09,2026-02-19,Completed,9.0,178.29,1324.01,material_inflation
+J0012,Northfield Logistics,Lighting Upgrade,Estimator 3,2026-01-21,2026-02-06,Completed,80.0,3979.3,9841.54,remedial
+J0013,Northfield Logistics,Small Works,Estimator 3,2025-12-31,2026-01-07,Completed,19.9,441.05,2147.11,scope_change
+J0014,Alder Facilities,EICR & Remedials,Estimator 4,2025-10-10,2025-10-23,Completed,38.8,1425.3,3977.28,scope_change
+J0015,Mercury Retail Group,Small Works,Estimator 2,2026-08-13,2026-08-23,Completed,15.6,455.9,1587.76,normal
+J0016,Mercury Retail Group,Small Works,Estimator 3,2026-01-04,2026-01-11,Completed,12.0,1105.77,2409.6,normal
+J0017,Mercury Retail Group,Small Works,Estimator 2,2026-02-01,2026-02-12,Completed,20.2,359.34,2059.35,scope_change
+J0018,Orion Manufacturing,EICR & Remedials,Estimator 4,2025-12-04,2025-12-13,Completed,36.6,2147.62,5246.26,normal
+J0019,Orion Manufacturing,Small Works,Estimator 3,2026-09-10,2026-09-18,In progress,18.9,415.53,1789.63,estimating_gap
+J0020,Greenline Hotels,Lighting Upgrade,Estimator 4,2026-08-20,2026-08-30,Completed,88.5,2530.09,7541.32,normal
+J0021,Ashbrook Schools,Planned Maintenance,Estimator 1,2025-10-28,2025-11-05,Completed,36.5,341.83,2492.51,normal
+J0022,Meridian Estates,Planned Maintenance,Estimator 1,2025-10-04,2025-10-13,Completed,19.3,378.96,1723.52,site_access
+J0023,Crown Property Services,Emergency Callout,Estimator 2,2025-11-23,2025-12-04,Completed,9.9,362.96,1159.79,estimating_gap
+J0024,Canal Utilities,EICR & Remedials,Estimator 1,2026-07-04,2026-07-12,Completed,43.5,613.53,3777.43,site_access
+J0025,Canal Utilities,EICR & Remedials,Estimator 2,2026-09-03,2026-09-05,Completed,36.7,841.93,3402.61,material_inflation
+J0026,Ashbrook Schools,Lighting Upgrade,Estimator 4,2026-03-30,2026-04-18,Completed,101.5,3547.95,10472.33,scope_change
+J0027,Northfield Logistics,Lighting Upgrade,Estimator 1,2026-06-07,2026-06-19,Completed,62.2,2562.05,7052.14,estimating_gap
+J0028,Orion Manufacturing,Emergency Callout,Estimator 1,2026-07-30,2026-08-04,Completed,8.1,335.11,1195.01,normal
+J0029,Alder Facilities,Planned Maintenance,Estimator 1,2026-07-22,2026-08-05,Completed,44.5,712.7,3431.06,site_access
+J0030,Canal Utilities,Small Works,Estimator 4,2026-08-28,2026-09-07,Completed,28.1,454.69,2344.17,normal
+J0031,Greenline Hotels,EICR & Remedials,Estimator 2,2025-10-05,2025-10-18,Completed,52.4,749.7,3784.59,normal
+J0032,Northfield Logistics,Planned Maintenance,Estimator 3,2026-07-26,2026-08-05,Completed,48.6,907.85,4593.91,scope_change
+J0033,Ashbrook Schools,Planned Maintenance,Estimator 4,2025-12-30,2026-01-10,Completed,40.5,1233.11,3674.48,normal
+J0034,Alder Facilities,Lighting Upgrade,Estimator 3,2026-03-25,2026-04-01,Completed,65.4,3217.27,6974.43,normal
+J0035,Meridian Estates,Planned Maintenance,Estimator 4,2026-03-04,2026-03-09,Completed,41.4,429.81,3090.12,scope_change
+J0036,Mercury Retail Group,EICR & Remedials,Estimator 2,2026-05-27,2026-06-06,Completed,28.7,1301.92,3883.91,normal
+J0037,Mercury Retail Group,Installation,Estimator 4,2026-01-13,2026-02-05,Completed,210.7,4691.3,17290.79,normal
+J0038,Westway Healthcare,Lighting Upgrade,Estimator 2,2026-08-05,2026-08-15,Completed,50.7,3551.97,8074.56,remedial
+J0039,Crown Property Services,Small Works,Estimator 1,2026-05-22,2026-06-02,Completed,24.2,873.83,2956.56,normal
+J0040,Westway Healthcare,Small Works,Estimator 1,2026-08-22,2026-09-02,Completed,30.8,1151.18,3486.79,normal
+J0041,Crown Property Services,Small Works,Estimator 2,2026-06-03,2026-06-06,Completed,19.9,1274.01,3069.73,material_inflation
+J0042,Westway Healthcare,Planned Maintenance,Estimator 3,2026-01-16,2026-01-20,Completed,45.2,852.48,3864.25,normal
+J0043,Meridian Estates,Planned Maintenance,Estimator 2,2026-05-12,2026-05-25,Completed,39.3,558.49,3037.92,remedial
+J0044,Canal Utilities,Lighting Upgrade,Estimator 1,2025-11-08,2025-11-21,Completed,101.7,2682.17,9003.16,normal
+J0045,Ashbrook Schools,Planned Maintenance,Estimator 3,2026-05-03,2026-05-05,Completed,22.9,1384.32,3509.89,normal
+J0046,Alder Facilities,Small Works,Estimator 2,2026-02-23,2026-03-05,Completed,26.2,458.37,2127.52,remedial
+J0047,Canal Utilities,Planned Maintenance,Estimator 1,2025-10-02,2025-10-07,Completed,37.1,753.1,3111.42,normal
+J0048,Alder Facilities,Lighting Upgrade,Estimator 4,2025-12-08,2025-12-24,Completed,59.7,1693.06,5953.8,estimating_gap
+J0049,Meridian Estates,Lighting Upgrade,Estimator 4,2026-05-13,2026-05-28,Completed,91.9,2194.49,8333.4,site_access
+J0050,Alder Facilities,Installation,Estimator 3,2026-02-03,2026-02-19,Completed,258.7,8227.43,27196.43,material_inflation
+J0051,Greenline Hotels,EICR & Remedials,Estimator 2,2026-03-09,2026-03-14,Completed,42.6,1131.1,3770.95,material_inflation
+J0052,Meridian Estates,Lighting Upgrade,Estimator 4,2026-03-21,2026-04-04,Completed,74.9,2923.88,9187.49,normal
+J0053,Canal Utilities,Small Works,Estimator 3,2026-06-14,2026-06-17,Completed,22.5,877.34,2467.39,normal
+J0054,Mercury Retail Group,Small Works,Estimator 3,2026-03-27,2026-04-04,Completed,29.1,714.1,3074.14,complexity
+J0055,Ashbrook Schools,Emergency Callout,Estimator 2,2026-05-26,2026-06-05,Completed,8.9,286.7,1064.92,normal
+J0056,Greenline Hotels,Small Works,Estimator 1,2026-07-08,2026-07-18,Completed,20.6,748.3,2139.52,normal
+J0057,Mercury Retail Group,Lighting Upgrade,Estimator 3,2026-01-11,2026-01-18,Completed,74.8,5525.44,11767.42,estimating_gap
+J0058,Mercury Retail Group,Planned Maintenance,Estimator 3,2026-04-05,2026-04-15,Completed,29.3,502.92,2464.19,scope_change
+J0059,Ashbrook Schools,Lighting Upgrade,Estimator 2,2026-08-10,2026-08-28,Completed,131.6,3950.1,12059.65,estimating_gap
+J0060,Canal Utilities,EICR & Remedials,Estimator 4,2025-10-23,2025-10-31,Completed,53.4,1940.22,6127.16,site_access
+J0061,Meridian Estates,Small Works,Estimator 1,2026-01-31,2026-02-02,Completed,17.3,555.77,1878.8,estimating_gap
+J0062,Greenline Hotels,Installation,Estimator 1,2026-01-04,2026-01-28,Completed,140.1,7446.63,17197.55,estimating_gap
+J0063,Mercury Retail Group,Installation,Estimator 3,2025-12-11,2026-01-01,Completed,161.2,4563.42,13577.51,estimating_gap
+J0064,Mercury Retail Group,Lighting Upgrade,Estimator 3,2026-09-14,2026-09-23,In progress,72.2,3263.46,8645.72,site_access
+J0065,Mercury Retail Group,EICR & Remedials,Estimator 4,2026-08-21,2026-08-29,Completed,45.1,1011.48,3336.05,remedial
+J0066,Meridian Estates,Planned Maintenance,Estimator 4,2025-12-06,2025-12-18,Completed,37.7,706.72,2856.41,site_access
+J0067,Ashbrook Schools,Planned Maintenance,Estimator 2,2026-04-11,2026-04-14,Completed,28.7,746.69,3208.28,normal
+J0068,Mercury Retail Group,EICR & Remedials,Estimator 2,2026-04-04,2026-04-08,Completed,40.2,1323.5,4254.88,normal
+J0069,Greenline Hotels,Emergency Callout,Estimator 4,2025-12-02,2025-12-05,Completed,14.8,214.83,1221.23,remedial
+J0070,Greenline Hotels,Installation,Estimator 2,2026-07-19,2026-08-06,Completed,168.2,8678.11,21273.7,estimating_gap
+J0071,Northfield Logistics,Lighting Upgrade,Estimator 3,2025-10-12,2025-10-28,Completed,115.3,3516.73,10323.0,normal
+J0072,Canal Utilities,Emergency Callout,Estimator 4,2026-04-13,2026-04-17,Completed,5.7,209.09,802.32,scope_change
+J0073,Westway Healthcare,Small Works,Estimator 1,2025-11-17,2025-11-30,Completed,27.6,937.44,2978.05,estimating_gap
+J0074,Crown Property Services,Small Works,Estimator 3,2026-04-01,2026-04-09,Completed,22.0,374.54,2055.14,remedial
+J0075,Northfield Logistics,Small Works,Estimator 1,2026-05-30,2026-06-03,Completed,32.1,389.07,2022.19,scope_change
+J0076,Orion Manufacturing,Planned Maintenance,Estimator 4,2026-05-16,2026-05-26,Completed,24.6,477.64,2335.04,complexity
+J0077,Crown Property Services,Installation,Estimator 2,2026-03-22,2026-04-15,Completed,253.0,3416.75,17257.51,estimating_gap
+J0078,Westway Healthcare,Lighting Upgrade,Estimator 1,2026-07-07,2026-07-19,Completed,62.6,3546.75,8456.06,normal
+J0079,Alder Facilities,Small Works,Estimator 3,2026-01-12,2026-01-14,Completed,24.9,610.57,2486.24,normal
+J0080,Greenline Hotels,EICR & Remedials,Estimator 3,2026-02-25,2026-03-07,Completed,29.9,1132.64,3541.71,estimating_gap
+J0081,Northfield Logistics,Installation,Estimator 4,2026-02-20,2026-03-05,Completed,121.6,7039.22,15784.75,normal
+J0082,Ashbrook Schools,EICR & Remedials,Estimator 1,2026-05-22,2026-05-25,Completed,44.7,1167.42,4343.46,normal
+J0083,Crown Property Services,Installation,Estimator 4,2026-05-29,2026-06-15,Completed,154.3,6417.33,16075.85,scope_change
+J0084,Canal Utilities,Planned Maintenance,Estimator 4,2026-07-13,2026-07-21,Completed,23.8,876.03,2615.67,normal
+J0085,Westway Healthcare,Lighting Upgrade,Estimator 3,2026-07-06,2026-07-17,Completed,120.3,2701.71,9568.68,complexity
+J0086,Alder Facilities,Lighting Upgrade,Estimator 2,2026-08-07,2026-08-28,Completed,146.8,4582.76,12715.66,scope_change
+J0087,Canal Utilities,Lighting Upgrade,Estimator 2,2025-11-06,2025-11-17,Completed,88.5,2920.21,9114.4,scope_change
+J0088,Northfield Logistics,Emergency Callout,Estimator 1,2026-03-02,2026-03-11,Completed,14.3,157.03,1407.04,estimating_gap
+J0089,Meridian Estates,Planned Maintenance,Estimator 2,2026-07-03,2026-07-10,Completed,33.6,683.3,2952.13,scope_change
+J0090,Ashbrook Schools,Installation,Estimator 1,2026-01-06,2026-01-26,Completed,234.7,10289.19,22586.25,normal
+J0091,Meridian Estates,Installation,Estimator 1,2026-06-02,2026-06-17,Completed,218.9,8546.15,23304.33,normal
+J0092,Meridian Estates,Installation,Estimator 2,2026-07-08,2026-07-23,Completed,199.9,5866.96,18578.24,normal
+J0093,Ashbrook Schools,Planned Maintenance,Estimator 3,2026-05-08,2026-05-15,Completed,28.9,886.36,2668.39,estimating_gap
+J0094,Meridian Estates,Small Works,Estimator 4,2026-01-08,2026-01-16,Completed,24.5,959.56,2703.58,normal
+J0095,Westway Healthcare,Lighting Upgrade,Estimator 2,2025-11-16,2025-11-28,Completed,74.6,2698.3,8073.18,normal
+J0096,Orion Manufacturing,Lighting Upgrade,Estimator 1,2026-08-10,2026-08-16,Completed,117.2,2148.3,8127.29,normal
+J0097,Crown Property Services,Small Works,Estimator 2,2026-06-18,2026-06-28,Completed,33.3,562.31,2462.2,site_access
+J0098,Greenline Hotels,Small Works,Estimator 4,2025-12-20,2025-12-25,Completed,27.2,1060.71,3142.25,material_inflation
+J0099,Ashbrook Schools,Small Works,Estimator 3,2026-06-14,2026-06-25,Completed,21.5,1011.13,2762.38,remedial
+J0100,Greenline Hotels,Small Works,Estimator 3,2026-07-17,2026-07-25,Completed,41.1,1595.3,4957.33,material_inflation
+J0101,Crown Property Services,EICR & Remedials,Estimator 3,2025-11-16,2025-11-22,Completed,35.3,945.69,3412.75,normal
+J0102,Westway Healthcare,Small Works,Estimator 3,2026-01-04,2026-01-11,Completed,13.9,1011.48,2302.24,normal
+J0103,Orion Manufacturing,Planned Maintenance,Estimator 1,2026-03-24,2026-04-06,Completed,37.8,407.26,2469.11,scope_change
+J0104,Northfield Logistics,Installation,Estimator 2,2026-05-25,2026-06-10,Completed,106.1,3335.14,10638.22,remedial
+J0105,Alder Facilities,Lighting Upgrade,Estimator 2,2026-01-26,2026-02-12,Completed,113.8,3440.81,10035.67,estimating_gap
+J0106,Alder Facilities,Lighting Upgrade,Estimator 1,2025-11-24,2025-12-12,Completed,120.2,1657.17,9415.2,estimating_gap
+J0107,Meridian Estates,Installation,Estimator 3,2025-10-03,2025-11-03,Completed,259.0,7799.8,25457.25,remedial
+J0108,Crown Property Services,EICR & Remedials,Estimator 4,2025-12-23,2025-12-26,Completed,37.6,598.59,2884.53,normal
+J0109,Ashbrook Schools,Emergency Callout,Estimator 1,2026-06-03,2026-06-11,Completed,13.5,199.75,1214.4,estimating_gap
+J0110,Mercury Retail Group,Small Works,Estimator 1,2025-12-23,2025-12-29,Completed,28.0,497.92,2733.41,remedial
+J0111,Crown Property Services,Small Works,Estimator 2,2026-03-12,2026-03-21,Completed,19.0,557.08,2138.2,normal
+J0112,Ashbrook Schools,Planned Maintenance,Estimator 2,2026-03-26,2026-04-09,Completed,45.5,633.12,3835.74,site_access
+J0113,Alder Facilities,EICR & Remedials,Estimator 1,2025-12-08,2025-12-16,Completed,33.5,829.79,3045.68,site_access
+J0114,Northfield Logistics,Small Works,Estimator 3,2025-12-04,2025-12-07,Completed,29.8,548.57,2818.16,normal
+J0115,Meridian Estates,Planned Maintenance,Estimator 4,2026-01-07,2026-01-18,Completed,39.9,418.86,3235.03,normal
+J0116,Alder Facilities,Planned Maintenance,Estimator 2,2025-11-22,2025-12-03,Completed,29.1,319.6,2114.63,normal
+J0117,Crown Property Services,Installation,Estimator 3,2025-12-12,2025-12-21,Completed,183.4,3517.05,15396.79,normal
+J0118,Westway Healthcare,Lighting Upgrade,Estimator 1,2026-06-11,2026-06-17,Completed,91.6,1662.52,7574.37,normal
+J0119,Mercury Retail Group,Installation,Estimator 1,2026-06-03,2026-06-19,Completed,119.1,4379.12,11279.51,complexity
+J0120,Alder Facilities,EICR & Remedials,Estimator 1,2026-03-07,2026-03-10,Completed,36.5,935.17,3357.91,normal
+J0121,Ashbrook Schools,EICR & Remedials,Estimator 3,2026-01-10,2026-01-22,Completed,67.3,1815.22,6325.76,estimating_gap
+J0122,Ashbrook Schools,Installation,Estimator 2,2025-12-29,2026-01-12,Completed,101.6,7317.26,15622.93,normal
+J0123,Alder Facilities,Installation,Estimator 3,2026-08-23,2026-09-10,Completed,230.8,3870.44,16176.98,normal
+J0124,Ashbrook Schools,EICR & Remedials,Estimator 3,2026-09-06,2026-09-14,In progress,37.5,1322.5,4211.19,normal
+J0125,Canal Utilities,Planned Maintenance,Estimator 1,2026-06-25,2026-07-06,Completed,27.3,311.47,2241.44,remedial
+J0126,Westway Healthcare,Installation,Estimator 2,2025-11-14,2025-12-12,Completed,258.1,4876.58,20756.81,complexity
+J0127,Northfield Logistics,Small Works,Estimator 4,2026-01-30,2026-02-10,Completed,18.2,789.51,2348.55,complexity
+J0128,Westway Healthcare,Installation,Estimator 2,2026-04-22,2026-05-10,Completed,93.1,5353.6,10983.39,complexity
+J0129,Crown Property Services,Small Works,Estimator 4,2026-07-29,2026-08-05,Completed,16.9,644.66,1986.62,complexity
+J0130,Alder Facilities,Installation,Estimator 1,2026-05-31,2026-06-20,Completed,195.5,3790.23,13628.4,normal
+J0131,Mercury Retail Group,Small Works,Estimator 1,2026-02-08,2026-02-17,Completed,25.7,486.84,2291.07,normal
+J0132,Orion Manufacturing,Lighting Upgrade,Estimator 3,2026-07-01,2026-07-05,Completed,66.9,3385.15,8347.42,normal
+J0133,Orion Manufacturing,Emergency Callout,Estimator 3,2026-04-06,2026-04-10,Completed,10.6,250.44,1120.99,remedial
+J0134,Greenline Hotels,Small Works,Estimator 3,2025-10-31,2025-11-03,Completed,15.1,459.62,1741.53,estimating_gap
+J0135,Greenline Hotels,Installation,Estimator 4,2026-05-10,2026-05-20,Completed,94.8,7292.51,14409.22,scope_change
+J0136,Mercury Retail Group,Small Works,Estimator 1,2026-01-24,2026-02-03,Completed,27.8,686.82,2553.87,normal
+J0137,Mercury Retail Group,Installation,Estimator 4,2025-12-24,2026-01-09,Completed,99.9,5869.02,13179.98,remedial
+J0138,Meridian Estates,Planned Maintenance,Estimator 1,2026-07-02,2026-07-08,Completed,31.6,614.71,2971.05,normal
+J0139,Canal Utilities,Lighting Upgrade,Estimator 1,2026-07-04,2026-07-10,Completed,43.5,7258.95,13071.13,material_inflation
+J0140,Orion Manufacturing,Planned Maintenance,Estimator 3,2026-01-21,2026-01-25,Completed,29.0,1039.25,3346.68,material_inflation
+J0141,Northfield Logistics,EICR & Remedials,Estimator 1,2025-12-30,2026-01-06,Completed,72.0,749.16,5109.7,normal
+J0142,Canal Utilities,EICR & Remedials,Estimator 2,2026-04-15,2026-04-22,Completed,57.8,2008.74,6062.13,normal
+J0143,Westway Healthcare,Installation,Estimator 1,2026-06-11,2026-06-28,Completed,139.0,4504.17,12097.69,normal
+J0144,Ashbrook Schools,Installation,Estimator 1,2025-10-08,2025-10-24,Completed,193.0,5321.16,15703.79,normal
+J0145,Orion Manufacturing,Small Works,Estimator 4,2026-07-25,2026-07-30,Completed,32.7,950.25,3133.04,site_access
+J0146,Canal Utilities,Small Works,Estimator 1,2026-02-19,2026-02-27,Completed,19.2,974.2,2512.35,normal
+J0147,Crown Property Services,Planned Maintenance,Estimator 4,2026-08-28,2026-09-08,Completed,19.5,1069.62,2660.98,normal
+J0148,Canal Utilities,Planned Maintenance,Estimator 1,2026-03-27,2026-04-05,Completed,16.1,526.78,1763.02,complexity
+J0149,Canal Utilities,EICR & Remedials,Estimator 4,2026-08-07,2026-08-17,Completed,53.5,1170.19,4764.24,normal
+J0150,Crown Property Services,Emergency Callout,Estimator 4,2026-01-17,2026-01-25,Completed,6.7,315.88,941.77,site_access
+J0151,Alder Facilities,Lighting Upgrade,Estimator 4,2025-10-19,2025-10-30,Completed,85.1,2570.83,7939.91,estimating_gap
+J0152,Orion Manufacturing,EICR & Remedials,Estimator 4,2026-05-15,2026-05-24,Completed,44.9,1158.3,3976.32,scope_change
+J0153,Westway Healthcare,Small Works,Estimator 2,2026-01-04,2026-01-11,Completed,30.4,1057.25,3421.18,site_access
+J0154,Alder Facilities,EICR & Remedials,Estimator 1,2026-04-02,2026-04-12,Completed,35.8,1195.41,3774.49,material_inflation
+J0155,Orion Manufacturing,Installation,Estimator 1,2026-01-09,2026-02-02,Completed,191.2,10397.02,26168.92,estimating_gap
+J0156,Westway Healthcare,Planned Maintenance,Estimator 1,2025-12-31,2026-01-08,Completed,24.8,394.15,2491.41,complexity
+J0157,Ashbrook Schools,Planned Maintenance,Estimator 4,2025-12-20,2025-12-23,Completed,39.5,911.94,3420.27,material_inflation
+J0158,Canal Utilities,EICR & Remedials,Estimator 1,2026-08-12,2026-08-24,Completed,26.3,673.76,2706.29,normal
+J0159,Mercury Retail Group,EICR & Remedials,Estimator 2,2026-04-05,2026-04-22,Completed,72.1,1872.89,6424.14,estimating_gap
+J0160,Canal Utilities,Installation,Estimator 4,2025-10-02,2025-10-17,Completed,186.7,5005.92,15083.43,remedial
+J0161,Canal Utilities,Planned Maintenance,Estimator 3,2026-07-12,2026-07-18,Completed,56.4,467.76,4068.67,material_inflation
+J0162,Orion Manufacturing,Lighting Upgrade,Estimator 2,2026-09-03,2026-09-19,Completed,107.4,2482.33,9234.75,normal
+J0163,Greenline Hotels,Lighting Upgrade,Estimator 3,2026-08-18,2026-09-06,Completed,157.9,2886.33,12160.13,estimating_gap
+J0164,Meridian Estates,Small Works,Estimator 1,2026-05-21,2026-05-23,Completed,22.6,955.47,2753.76,normal
+J0165,Mercury Retail Group,Emergency Callout,Estimator 4,2026-09-11,2026-09-17,Completed,12.3,245.96,1249.24,material_inflation
+J0166,Crown Property Services,Planned Maintenance,Estimator 4,2026-05-14,2026-05-27,Completed,52.4,821.24,4540.72,remedial
+J0167,Mercury Retail Group,Planned Maintenance,Estimator 4,2025-12-09,2025-12-16,Completed,43.1,738.93,3807.79,complexity
+J0168,Crown Property Services,Installation,Estimator 1,2026-03-08,2026-03-15,Completed,116.6,6533.33,14643.03,material_inflation
+J0169,Orion Manufacturing,Planned Maintenance,Estimator 1,2026-08-16,2026-08-18,Completed,32.8,610.87,2735.49,material_inflation
+J0170,Mercury Retail Group,Planned Maintenance,Estimator 1,2026-01-03,2026-01-09,Completed,38.5,516.46,2636.46,normal
+J0171,Crown Property Services,EICR & Remedials,Estimator 2,2025-11-05,2025-11-19,Completed,46.4,384.43,3050.38,complexity
+J0172,Mercury Retail Group,Lighting Upgrade,Estimator 4,2026-07-05,2026-07-16,Completed,67.2,5050.03,9529.76,complexity
+J0173,Greenline Hotels,EICR & Remedials,Estimator 2,2026-02-01,2026-02-13,Completed,40.4,1186.95,3604.79,normal
+J0174,Crown Property Services,Lighting Upgrade,Estimator 3,2025-11-15,2025-12-10,Completed,195.0,2909.67,13263.92,complexity
+J0175,Canal Utilities,EICR & Remedials,Estimator 1,2026-02-01,2026-02-13,Completed,32.8,1521.56,3930.96,site_access
+J0176,Greenline Hotels,Small Works,Estimator 4,2025-10-02,2025-10-09,Completed,16.1,755.88,2196.49,estimating_gap
+J0177,Mercury Retail Group,Small Works,Estimator 3,2026-03-04,2026-03-10,Completed,26.9,858.12,2587.68,normal
+J0178,Westway Healthcare,Emergency Callout,Estimator 4,2026-07-12,2026-07-19,Completed,12.4,188.3,1081.6,estimating_gap
+J0179,Westway Healthcare,Emergency Callout,Estimator 4,2025-12-03,2025-12-05,Completed,10.2,201.92,1444.74,scope_change
+J0180,Canal Utilities,Small Works,Estimator 2,2026-05-14,2026-05-20,Completed,18.3,491.26,1714.17,estimating_gap
+J0181,Ashbrook Schools,Planned Maintenance,Estimator 1,2026-07-12,2026-07-24,Completed,60.9,472.19,4452.99,normal
+J0182,Ashbrook Schools,Small Works,Estimator 2,2026-02-16,2026-03-01,Completed,35.1,973.48,3385.9,normal
+J0183,Greenline Hotels,Small Works,Estimator 2,2026-01-24,2026-02-01,Completed,25.8,906.35,2966.61,normal
+J0184,Mercury Retail Group,Installation,Estimator 2,2026-05-06,2026-05-19,Completed,127.4,5152.88,14056.47,material_inflation
+J0185,Meridian Estates,Installation,Estimator 4,2025-11-17,2025-12-06,Completed,169.4,15106.61,28217.43,normal
+J0186,Alder Facilities,Planned Maintenance,Estimator 1,2026-02-22,2026-03-07,Completed,28.7,530.41,2607.66,site_access
+J0187,Mercury Retail Group,Emergency Callout,Estimator 3,2026-02-21,2026-03-01,Completed,11.7,198.21,1190.74,normal
+J0188,Alder Facilities,EICR & Remedials,Estimator 2,2026-08-20,2026-08-29,Completed,60.2,1301.83,5524.71,complexity
+J0189,Orion Manufacturing,Planned Maintenance,Estimator 2,2025-12-28,2026-01-01,Completed,23.4,469.68,2233.25,scope_change
+J0190,Mercury Retail Group,Small Works,Estimator 2,2026-03-24,2026-04-02,Completed,32.7,818.12,3165.42,site_access
+J0191,Northfield Logistics,Lighting Upgrade,Estimator 4,2025-10-30,2025-11-13,Completed,87.7,2511.53,7914.3,normal
+J0192,Mercury Retail Group,Small Works,Estimator 3,2026-01-17,2026-01-29,Completed,29.1,897.07,2736.52,normal
+J0193,Crown Property Services,Planned Maintenance,Estimator 1,2026-05-08,2026-05-14,Completed,32.9,399.04,2688.63,remedial
+J0194,Westway Healthcare,Installation,Estimator 3,2026-04-02,2026-04-19,Completed,191.5,7051.36,20173.03,normal
+J0195,Mercury Retail Group,EICR & Remedials,Estimator 3,2026-06-10,2026-06-18,Completed,29.6,804.06,3288.9,complexity
+J0196,Crown Property Services,Lighting Upgrade,Estimator 3,2025-11-02,2025-11-18,Completed,85.8,2698.86,8370.36,scope_change
+J0197,Greenline Hotels,Lighting Upgrade,Estimator 3,2026-03-23,2026-04-05,Completed,105.0,2611.11,8579.17,estimating_gap
+J0198,Canal Utilities,Small Works,Estimator 3,2026-02-13,2026-02-24,Completed,26.0,470.62,2160.16,normal
+J0199,Alder Facilities,Planned Maintenance,Estimator 2,2026-06-11,2026-06-17,Completed,39.6,471.08,2784.07,estimating_gap
+J0200,Meridian Estates,Lighting Upgrade,Estimator 4,2025-11-25,2025-12-06,Completed,98.5,2238.98,8825.69,normal
+J0201,Mercury Retail Group,Lighting Upgrade,Estimator 1,2025-12-14,2025-12-22,Completed,95.5,2149.85,7041.92,material_inflation
+J0202,Canal Utilities,Small Works,Estimator 3,2025-11-15,2025-11-19,Completed,28.6,760.56,2810.26,site_access
+J0203,Westway Healthcare,Planned Maintenance,Estimator 1,2026-01-06,2026-01-09,Completed,30.1,542.66,2839.55,scope_change
+J0204,Meridian Estates,Small Works,Estimator 4,2025-11-07,2025-11-20,Completed,27.4,679.52,2895.09,complexity
+J0205,Greenline Hotels,Planned Maintenance,Estimator 1,2026-06-30,2026-07-06,Completed,35.5,655.94,2745.04,material_inflation
+J0206,Greenline Hotels,Emergency Callout,Estimator 4,2025-10-28,2025-11-08,Completed,12.7,125.68,907.51,site_access
+J0207,Canal Utilities,Lighting Upgrade,Estimator 2,2026-01-05,2026-01-15,Completed,82.6,3026.67,8478.54,normal
+J0208,Crown Property Services,Installation,Estimator 3,2026-01-23,2026-02-10,Completed,167.1,3228.64,13700.3,remedial
+J0209,Mercury Retail Group,EICR & Remedials,Estimator 1,2026-03-26,2026-04-03,Completed,35.1,588.35,2798.76,normal
+J0210,Northfield Logistics,Installation,Estimator 2,2026-05-17,2026-06-14,Completed,181.0,5328.37,15823.36,remedial
+J0211,Mercury Retail Group,Installation,Estimator 3,2026-09-01,2026-09-22,Completed,217.0,8845.08,24087.63,normal
+J0212,Orion Manufacturing,Installation,Estimator 2,2025-11-30,2025-12-10,Completed,158.7,4280.9,13447.99,normal
+J0213,Orion Manufacturing,Installation,Estimator 3,2026-02-03,2026-02-14,Completed,74.8,6318.84,12333.29,estimating_gap
+J0214,Mercury Retail Group,Emergency Callout,Estimator 3,2026-02-14,2026-02-19,Completed,9.6,175.6,999.91,site_access
+J0215,Orion Manufacturing,Lighting Upgrade,Estimator 4,2026-08-12,2026-08-17,Completed,50.3,4126.17,7326.06,complexity
+J0216,Greenline Hotels,EICR & Remedials,Estimator 3,2025-10-21,2025-10-27,Completed,54.9,620.23,3722.86,estimating_gap
+J0217,Orion Manufacturing,Planned Maintenance,Estimator 2,2026-06-05,2026-06-10,Completed,32.3,395.01,2471.52,normal
+J0218,Ashbrook Schools,EICR & Remedials,Estimator 4,2026-05-31,2026-06-08,Completed,59.3,625.04,3821.34,estimating_gap
+J0219,Mercury Retail Group,Planned Maintenance,Estimator 2,2026-03-05,2026-03-13,Completed,36.3,727.81,3143.88,normal
+J0220,Greenline Hotels,Planned Maintenance,Estimator 4,2026-07-13,2026-07-20,Completed,69.8,807.96,4983.69,normal
+J0221,Crown Property Services,Planned Maintenance,Estimator 2,2026-07-20,2026-07-28,Completed,54.6,393.99,4170.75,remedial
+J0222,Meridian Estates,Installation,Estimator 2,2026-03-05,2026-04-15,Completed,291.9,6326.43,24534.91,estimating_gap
+J0223,Crown Property Services,Small Works,Estimator 2,2026-09-06,2026-09-17,Completed,31.2,516.57,2254.32,normal
+J0224,Ashbrook Schools,Lighting Upgrade,Estimator 1,2026-06-16,2026-06-30,Completed,89.3,4001.81,10737.41,normal
+J0225,Crown Property Services,EICR & Remedials,Estimator 4,2026-06-25,2026-07-02,Completed,38.1,1621.02,4766.85,complexity
+J0226,Ashbrook Schools,Small Works,Estimator 2,2026-07-21,2026-07-28,Completed,35.7,853.64,3291.79,remedial
+J0227,Meridian Estates,Installation,Estimator 4,2026-02-11,2026-03-05,Completed,404.0,5231.95,28122.09,normal
+J0228,Mercury Retail Group,Emergency Callout,Estimator 1,2026-01-01,2026-01-08,Completed,8.4,382.39,1309.62,remedial
+J0229,Canal Utilities,EICR & Remedials,Estimator 3,2025-10-24,2025-10-27,Completed,38.7,1199.31,4070.37,normal
+J0230,Crown Property Services,Planned Maintenance,Estimator 2,2025-11-25,2025-11-30,Completed,38.4,787.87,3353.32,estimating_gap
+J0231,Orion Manufacturing,Emergency Callout,Estimator 3,2026-01-20,2026-01-21,Completed,9.0,208.48,1278.42,normal
+J0232,Canal Utilities,Installation,Estimator 1,2026-01-21,2026-02-14,Completed,171.5,5919.28,16760.25,estimating_gap
+J0233,Canal Utilities,Lighting Upgrade,Estimator 4,2025-11-01,2025-11-21,Completed,105.9,3364.44,10333.13,remedial
+J0234,Greenline Hotels,Emergency Callout,Estimator 2,2025-12-30,2026-01-05,Completed,7.2,141.99,1078.69,estimating_gap
+J0235,Mercury Retail Group,Installation,Estimator 2,2026-06-09,2026-06-29,Completed,167.9,6723.59,17982.79,remedial
+J0236,Mercury Retail Group,Lighting Upgrade,Estimator 3,2026-05-17,2026-05-30,Completed,117.9,1565.43,8073.29,remedial
+J0237,Ashbrook Schools,EICR & Remedials,Estimator 4,2026-03-22,2026-03-28,Completed,50.0,651.24,3388.19,normal
+J0238,Northfield Logistics,EICR & Remedials,Estimator 2,2025-10-01,2025-10-06,Completed,28.7,988.29,2837.85,remedial
+J0239,Ashbrook Schools,Small Works,Estimator 2,2026-04-27,2026-05-05,Completed,24.5,830.13,2902.61,scope_change
+J0240,Greenline Hotels,Emergency Callout,Estimator 3,2026-05-28,2026-05-29,Completed,10.2,396.22,1638.22,remedial
+J0241,Mercury Retail Group,Planned Maintenance,Estimator 4,2026-01-30,2026-02-08,Completed,41.2,674.59,3364.49,normal
+J0242,Ashbrook Schools,Small Works,Estimator 3,2025-12-09,2025-12-19,Completed,15.2,664.27,2133.38,normal
+J0243,Canal Utilities,Planned Maintenance,Estimator 4,2025-10-16,2025-10-20,Completed,45.8,960.98,4103.86,site_access
+J0244,Meridian Estates,Installation,Estimator 2,2026-03-04,2026-03-17,Completed,191.3,3988.62,14213.01,normal
+J0245,Mercury Retail Group,Small Works,Estimator 4,2025-12-14,2025-12-17,Completed,16.5,663.66,1953.98,normal
+J0246,Greenline Hotels,Lighting Upgrade,Estimator 2,2025-11-23,2025-12-03,Completed,67.3,2867.68,8431.43,complexity
+J0247,Meridian Estates,Small Works,Estimator 2,2026-09-14,2026-09-20,In progress,10.1,640.57,1580.7,normal
+J0248,Canal Utilities,Small Works,Estimator 3,2026-05-06,2026-05-13,Completed,20.1,627.71,2439.93,normal
+J0249,Mercury Retail Group,Emergency Callout,Estimator 4,2025-11-03,2025-11-13,Completed,15.9,842.57,2002.28,normal
+J0250,Northfield Logistics,EICR & Remedials,Estimator 3,2026-07-23,2026-08-02,Completed,60.7,1642.0,5379.35,normal
+J0251,Crown Property Services,Small Works,Estimator 4,2026-01-01,2026-01-13,Completed,28.1,502.57,2314.45,scope_change
+J0252,Northfield Logistics,Lighting Upgrade,Estimator 3,2025-10-08,2025-10-19,Completed,113.2,3713.06,11662.93,scope_change
+J0253,Meridian Estates,Small Works,Estimator 4,2026-08-09,2026-08-15,Completed,16.0,966.49,2505.28,material_inflation
+J0254,Greenline Hotels,Planned Maintenance,Estimator 1,2026-02-05,2026-02-07,Completed,38.9,1037.07,3651.55,normal
+J0255,Northfield Logistics,Planned Maintenance,Estimator 4,2025-10-01,2025-10-11,Completed,33.6,313.53,2564.35,normal
+J0256,Ashbrook Schools,Planned Maintenance,Estimator 3,2025-11-30,2025-12-10,Completed,33.9,882.9,3129.73,estimating_gap
+J0257,Orion Manufacturing,Small Works,Estimator 2,2026-08-31,2026-09-10,Completed,33.5,871.17,3154.52,remedial
+J0258,Westway Healthcare,Installation,Estimator 4,2026-07-16,2026-07-28,Completed,203.1,5961.3,19162.58,normal
+J0259,Northfield Logistics,Emergency Callout,Estimator 4,2026-03-12,2026-03-22,Completed,5.6,327.81,968.34,scope_change
+J0260,Mercury Retail Group,Planned Maintenance,Estimator 4,2026-07-26,2026-08-06,Completed,24.1,357.45,2290.42,normal
+J0261,Westway Healthcare,Emergency Callout,Estimator 1,2025-10-11,2025-10-19,Completed,7.8,353.74,1300.84,scope_change
+J0262,Crown Property Services,EICR & Remedials,Estimator 3,2026-03-21,2026-03-24,Completed,25.0,1756.62,3830.05,estimating_gap
+J0263,Alder Facilities,Installation,Estimator 2,2025-11-03,2025-11-26,Completed,138.0,5682.35,13607.36,estimating_gap
+J0264,Alder Facilities,Small Works,Estimator 2,2025-11-03,2025-11-14,Completed,28.8,662.13,2254.57,normal
+J0265,Ashbrook Schools,EICR & Remedials,Estimator 4,2026-02-27,2026-03-05,Completed,44.2,711.77,3280.69,estimating_gap
+J0266,Alder Facilities,Installation,Estimator 2,2026-01-23,2026-02-09,Completed,154.5,4012.86,13972.26,normal
+J0267,Crown Property Services,Lighting Upgrade,Estimator 2,2025-10-01,2025-10-08,Completed,80.1,3327.93,9113.53,normal
+J0268,Mercury Retail Group,Planned Maintenance,Estimator 4,2026-01-17,2026-01-22,Completed,46.5,700.98,3506.08,scope_change
+J0269,Canal Utilities,Lighting Upgrade,Estimator 1,2025-12-31,2026-01-14,Completed,56.1,3689.13,8658.94,estimating_gap
+J0270,Mercury Retail Group,Installation,Estimator 3,2026-01-24,2026-02-05,Completed,123.6,5949.07,14095.53,normal
+J0271,Westway Healthcare,Lighting Upgrade,Estimator 3,2025-12-26,2026-01-01,Completed,81.2,2202.72,8109.94,normal
+J0272,Westway Healthcare,Planned Maintenance,Estimator 4,2026-03-02,2026-03-06,Completed,34.4,828.57,3087.08,estimating_gap
+J0273,Ashbrook Schools,Planned Maintenance,Estimator 1,2025-12-08,2025-12-12,Completed,30.7,889.9,3089.59,normal
+J0274,Ashbrook Schools,Planned Maintenance,Estimator 3,2025-10-09,2025-10-15,Completed,28.4,807.69,2680.57,estimating_gap
+J0275,Greenline Hotels,Lighting Upgrade,Estimator 3,2026-01-09,2026-01-21,Completed,143.0,3197.35,10457.27,site_access
+J0276,Alder Facilities,Lighting Upgrade,Estimator 1,2025-12-11,2025-12-23,Completed,91.0,2086.9,8122.01,material_inflation
+J0277,Orion Manufacturing,Small Works,Estimator 2,2026-08-05,2026-08-11,Completed,23.7,917.78,2722.4,normal
+J0278,Greenline Hotels,Planned Maintenance,Estimator 4,2025-11-16,2025-11-21,Completed,19.7,544.25,1955.55,normal
+J0279,Westway Healthcare,Planned Maintenance,Estimator 2,2025-12-09,2025-12-11,Completed,29.7,659.31,3192.93,normal
+J0280,Ashbrook Schools,EICR & Remedials,Estimator 1,2026-07-28,2026-08-02,Completed,43.8,1355.85,4160.67,material_inflation
+J0281,Ashbrook Schools,Small Works,Estimator 3,2026-07-15,2026-07-23,Completed,14.9,860.07,2217.52,site_access
+J0282,Northfield Logistics,Lighting Upgrade,Estimator 1,2026-01-08,2026-01-18,Completed,92.0,1569.67,6938.5,site_access
+J0283,Northfield Logistics,Lighting Upgrade,Estimator 4,2026-07-27,2026-08-13,Completed,87.4,2148.07,8739.41,remedial
+J0284,Alder Facilities,Planned Maintenance,Estimator 2,2026-09-04,2026-09-10,Completed,57.7,614.37,4609.19,estimating_gap
+J0285,Mercury Retail Group,Planned Maintenance,Estimator 1,2025-12-21,2025-12-26,Completed,38.0,495.0,3235.91,estimating_gap
+J0286,Alder Facilities,Emergency Callout,Estimator 4,2025-11-30,2025-12-02,Completed,9.4,361.31,1425.57,estimating_gap
+J0287,Canal Utilities,Small Works,Estimator 1,2025-12-25,2026-01-04,Completed,32.0,691.16,2786.71,material_inflation
+J0288,Northfield Logistics,Installation,Estimator 2,2026-01-28,2026-02-19,Completed,261.0,4087.47,19298.07,normal
+J0289,Meridian Estates,Planned Maintenance,Estimator 1,2026-07-31,2026-08-04,Completed,63.0,421.8,4336.72,normal
+J0290,Northfield Logistics,Planned Maintenance,Estimator 3,2026-03-19,2026-03-25,Completed,30.3,1238.51,3003.43,remedial
+J0291,Crown Property Services,Small Works,Estimator 3,2026-05-27,2026-06-01,Completed,21.0,453.18,2109.79,normal
+J0292,Ashbrook Schools,EICR & Remedials,Estimator 4,2026-05-11,2026-05-21,Completed,37.0,520.12,3083.04,remedial
+J0293,Crown Property Services,EICR & Remedials,Estimator 1,2026-03-20,2026-03-25,Completed,45.7,1318.59,4757.41,estimating_gap
+J0294,Orion Manufacturing,Small Works,Estimator 4,2026-09-01,2026-09-05,Completed,18.0,716.88,2217.8,site_access
+J0295,Orion Manufacturing,EICR & Remedials,Estimator 4,2026-05-16,2026-05-19,Completed,21.3,727.46,2321.14,site_access
+J0296,Mercury Retail Group,Installation,Estimator 2,2026-02-04,2026-02-22,Completed,124.1,7156.05,14445.39,estimating_gap
+J0297,Orion Manufacturing,Lighting Upgrade,Estimator 2,2026-08-20,2026-08-31,Completed,82.7,1065.65,5470.91,normal
+J0298,Ashbrook Schools,Installation,Estimator 2,2026-07-28,2026-08-03,Completed,80.4,6679.02,13882.88,normal
+J0299,Orion Manufacturing,Lighting Upgrade,Estimator 3,2026-02-08,2026-02-18,Completed,100.6,2374.7,9149.95,estimating_gap
+J0300,Canal Utilities,EICR & Remedials,Estimator 2,2026-06-16,2026-06-25,Completed,30.6,1105.02,3392.87,scope_change
+J0301,Alder Facilities,EICR & Remedials,Estimator 3,2025-12-12,2025-12-23,Completed,30.6,1826.87,4679.46,complexity
+J0302,Greenline Hotels,Installation,Estimator 3,2026-05-11,2026-05-27,Completed,126.7,3819.84,11278.68,normal
+J0303,Orion Manufacturing,Small Works,Estimator 2,2025-12-16,2025-12-24,Completed,21.3,537.27,1898.69,remedial
+J0304,Northfield Logistics,Small Works,Estimator 3,2026-06-06,2026-06-11,Completed,22.5,478.77,1955.27,normal
+J0305,Greenline Hotels,EICR & Remedials,Estimator 4,2025-12-30,2026-01-02,Completed,46.9,1176.73,3839.69,normal
+J0306,Meridian Estates,Small Works,Estimator 1,2026-07-11,2026-07-20,Completed,25.4,1449.2,3585.46,scope_change
+J0307,Alder Facilities,Planned Maintenance,Estimator 1,2026-03-23,2026-03-27,Completed,36.9,437.28,2827.21,site_access
+J0308,Alder Facilities,Installation,Estimator 1,2026-06-01,2026-06-14,Completed,159.3,6792.9,17721.47,normal
+J0309,Alder Facilities,Lighting Upgrade,Estimator 2,2025-10-08,2025-10-23,Completed,87.4,2118.1,7726.64,normal
+J0310,Meridian Estates,Planned Maintenance,Estimator 3,2026-03-03,2026-03-13,Completed,34.8,482.29,2729.74,normal
+J0311,Ashbrook Schools,Emergency Callout,Estimator 4,2025-11-17,2025-11-19,Completed,11.3,130.75,975.35,site_access
+J0312,Crown Property Services,Lighting Upgrade,Estimator 3,2025-11-19,2025-11-24,Completed,61.4,2590.9,7075.01,estimating_gap
+J0313,Northfield Logistics,Lighting Upgrade,Estimator 4,2026-08-26,2026-09-10,Completed,98.2,2817.53,9037.01,scope_change
+J0314,Westway Healthcare,Small Works,Estimator 2,2025-12-25,2026-01-06,Completed,12.8,537.58,1767.07,site_access
+J0315,Orion Manufacturing,Installation,Estimator 4,2026-06-25,2026-07-09,Completed,164.2,3618.76,12899.56,site_access
+J0316,Canal Utilities,Lighting Upgrade,Estimator 1,2026-07-03,2026-07-12,Completed,110.3,3283.49,10879.05,normal
+J0317,Westway Healthcare,Small Works,Estimator 3,2026-05-30,2026-06-07,Completed,28.9,771.75,3124.87,normal
+J0318,Northfield Logistics,Emergency Callout,Estimator 1,2026-07-24,2026-07-29,Completed,15.8,230.14,1284.11,normal
+J0319,Westway Healthcare,Planned Maintenance,Estimator 4,2025-10-14,2025-10-20,Completed,33.5,322.09,2232.3,normal
+J0320,Canal Utilities,Emergency Callout,Estimator 3,2026-02-18,2026-02-22,Completed,8.0,220.67,816.1,remedial
+J0321,Crown Property Services,Installation,Estimator 3,2025-11-21,2025-12-09,Completed,163.8,4482.91,13795.74,normal
+J0322,Canal Utilities,Small Works,Estimator 3,2025-10-02,2025-10-10,Completed,27.7,1027.55,3042.72,complexity
+J0323,Crown Property Services,Small Works,Estimator 4,2026-06-30,2026-07-02,Completed,27.0,834.4,2764.83,normal
+J0324,Canal Utilities,Small Works,Estimator 1,2026-03-28,2026-04-07,Completed,21.2,318.12,1561.0,normal
+J0325,Westway Healthcare,Lighting Upgrade,Estimator 1,2025-11-20,2025-12-04,Completed,102.1,2708.75,9272.17,complexity
+J0326,Canal Utilities,EICR & Remedials,Estimator 1,2026-06-29,2026-07-13,Completed,35.6,1798.52,4191.25,estimating_gap
+J0327,Canal Utilities,Small Works,Estimator 1,2026-03-24,2026-03-27,Completed,19.4,846.96,2209.41,normal
+J0328,Crown Property Services,Small Works,Estimator 2,2026-04-23,2026-04-27,Completed,30.3,732.55,3087.97,normal
+J0329,Orion Manufacturing,Lighting Upgrade,Estimator 2,2026-08-24,2026-08-30,Completed,73.5,4620.28,10318.43,site_access
+J0330,Ashbrook Schools,Small Works,Estimator 3,2026-06-19,2026-06-28,Completed,10.2,1114.89,2174.57,remedial
+J0331,Crown Property Services,Small Works,Estimator 4,2025-11-24,2025-12-02,Completed,26.4,532.57,2398.59,normal
+J0332,Crown Property Services,Lighting Upgrade,Estimator 1,2025-11-25,2025-12-03,Completed,84.0,2308.08,7258.01,estimating_gap
+J0333,Orion Manufacturing,Lighting Upgrade,Estimator 3,2026-07-03,2026-07-10,Completed,68.3,2838.23,7180.32,normal
+J0334,Orion Manufacturing,Planned Maintenance,Estimator 4,2025-11-08,2025-11-22,Completed,38.1,1180.03,3735.46,estimating_gap
+J0335,Greenline Hotels,Planned Maintenance,Estimator 1,2026-04-19,2026-04-26,Completed,26.3,832.97,3075.03,scope_change
+J0336,Canal Utilities,Lighting Upgrade,Estimator 1,2025-11-09,2025-11-23,Completed,117.6,3665.17,9975.82,site_access
+J0337,Orion Manufacturing,Small Works,Estimator 1,2025-10-05,2025-10-16,Completed,20.1,590.71,2302.59,scope_change
+J0338,Crown Property Services,EICR & Remedials,Estimator 1,2026-01-01,2026-01-07,Completed,25.0,1396.94,3335.72,normal
+J0339,Mercury Retail Group,Small Works,Estimator 4,2025-11-06,2025-11-11,Completed,27.0,581.01,2317.13,estimating_gap
+J0340,Meridian Estates,Planned Maintenance,Estimator 2,2026-09-07,2026-09-20,In progress,39.0,654.82,3300.59,normal
+J0341,Meridian Estates,Planned Maintenance,Estimator 2,2026-01-23,2026-02-01,Completed,34.2,1347.96,3574.06,complexity
+J0342,Orion Manufacturing,Installation,Estimator 4,2026-02-16,2026-03-04,Completed,173.3,6955.25,19046.79,normal
+J0343,Northfield Logistics,Emergency Callout,Estimator 4,2026-08-28,2026-08-29,Completed,10.4,181.37,1049.19,scope_change
+J0344,Westway Healthcare,Emergency Callout,Estimator 1,2026-07-05,2026-07-09,Completed,12.8,278.23,1606.92,estimating_gap
+J0345,Northfield Logistics,Installation,Estimator 3,2026-03-04,2026-03-19,Completed,125.8,7575.89,17008.45,estimating_gap
+J0346,Westway Healthcare,Emergency Callout,Estimator 2,2026-05-22,2026-05-24,Completed,15.8,86.08,950.91,normal
+J0347,Meridian Estates,Small Works,Estimator 1,2025-11-14,2025-11-26,Completed,18.8,953.53,2574.57,remedial
+J0348,Orion Manufacturing,Installation,Estimator 3,2025-11-14,2025-11-23,Completed,162.2,3270.38,13669.73,normal
+J0349,Ashbrook Schools,Small Works,Estimator 1,2025-11-28,2025-12-01,Completed,13.3,999.73,1978.66,site_access
+J0350,Mercury Retail Group,Installation,Estimator 4,2026-05-23,2026-06-06,Completed,89.2,6876.38,13267.27,estimating_gap
+J0351,Canal Utilities,Small Works,Estimator 3,2026-05-26,2026-06-07,Completed,31.3,1012.28,3062.07,normal
+J0352,Greenline Hotels,EICR & Remedials,Estimator 1,2026-08-22,2026-08-28,Completed,34.1,1147.98,3216.14,estimating_gap
+J0353,Orion Manufacturing,Planned Maintenance,Estimator 4,2026-04-10,2026-04-11,Completed,18.7,705.09,2423.84,normal
+J0354,Alder Facilities,EICR & Remedials,Estimator 3,2026-05-08,2026-05-15,Completed,42.9,1129.48,4073.11,normal
+J0355,Orion Manufacturing,Installation,Estimator 4,2025-10-08,2025-10-31,Completed,212.3,6223.64,19148.53,estimating_gap
+J0356,Northfield Logistics,Lighting Upgrade,Estimator 2,2026-04-05,2026-04-21,Completed,111.2,2508.11,10002.94,remedial
+J0357,Crown Property Services,Small Works,Estimator 3,2025-10-20,2025-11-01,Completed,21.6,559.32,2118.51,normal
+J0358,Westway Healthcare,Planned Maintenance,Estimator 3,2026-06-19,2026-06-30,Completed,39.9,632.43,3101.81,material_inflation
+J0359,Northfield Logistics,Installation,Estimator 4,2026-05-21,2026-06-02,Completed,118.7,5391.14,13686.74,normal
+J0360,Mercury Retail Group,Small Works,Estimator 4,2026-01-30,2026-02-04,Completed,17.3,943.49,2573.95,estimating_gap
+J0361,Ashbrook Schools,Planned Maintenance,Estimator 2,2026-05-29,2026-06-01,Completed,51.4,571.56,3879.22,normal
+J0362,Crown Property Services,Installation,Estimator 2,2026-02-09,2026-02-26,Completed,174.9,5338.27,16510.36,material_inflation
+J0363,Greenline Hotels,Small Works,Estimator 2,2026-08-15,2026-08-26,Completed,19.4,609.57,1806.93,normal
+J0364,Mercury Retail Group,Planned Maintenance,Estimator 3,2026-03-31,2026-04-06,Completed,54.6,606.98,3907.21,normal
+J0365,Alder Facilities,Lighting Upgrade,Estimator 2,2026-05-14,2026-05-28,Completed,81.7,4624.26,11384.7,site_access
+J0366,Canal Utilities,Small Works,Estimator 3,2025-12-05,2025-12-07,Completed,19.0,963.88,2545.89,normal
+J0367,Meridian Estates,Installation,Estimator 3,2025-12-16,2026-01-13,Completed,253.6,11030.23,27191.76,estimating_gap
+J0368,Crown Property Services,Installation,Estimator 4,2025-10-01,2025-10-15,Completed,192.7,3796.58,14556.8,normal
+J0369,Canal Utilities,Installation,Estimator 2,2026-09-01,2026-09-21,Completed,181.0,10445.81,22806.07,estimating_gap
+J0370,Orion Manufacturing,Lighting Upgrade,Estimator 4,2026-09-10,2026-09-15,In progress,73.7,3857.56,9418.71,normal
+J0371,Mercury Retail Group,EICR & Remedials,Estimator 3,2026-03-16,2026-03-22,Completed,33.3,948.59,3103.82,normal
+J0372,Meridian Estates,Small Works,Estimator 3,2026-08-13,2026-08-17,Completed,23.7,504.05,2445.53,site_access
+J0373,Greenline Hotels,Lighting Upgrade,Estimator 1,2026-02-18,2026-02-26,Completed,101.6,1706.48,7415.62,estimating_gap
+J0374,Mercury Retail Group,EICR & Remedials,Estimator 1,2026-03-21,2026-03-30,Completed,27.1,1381.04,3367.71,normal
+J0375,Northfield Logistics,EICR & Remedials,Estimator 4,2026-05-24,2026-05-29,Completed,34.1,954.79,3279.52,normal
+J0376,Mercury Retail Group,Lighting Upgrade,Estimator 4,2026-02-02,2026-02-09,Completed,63.3,5561.84,11771.0,estimating_gap
+J0377,Westway Healthcare,EICR & Remedials,Estimator 2,2025-11-28,2025-12-09,Completed,16.7,1648.83,3265.0,site_access
+J0378,Ashbrook Schools,EICR & Remedials,Estimator 4,2025-12-07,2025-12-19,Completed,25.0,1431.58,3699.64,scope_change
+J0379,Meridian Estates,Planned Maintenance,Estimator 4,2025-10-18,2025-10-29,Completed,30.6,1076.59,3099.22,complexity
+J0380,Northfield Logistics,EICR & Remedials,Estimator 4,2025-12-12,2025-12-17,Completed,43.5,1175.05,4654.33,material_inflation
+J0381,Orion Manufacturing,Installation,Estimator 1,2026-06-11,2026-07-04,Completed,173.6,4637.42,14652.59,scope_change
+J0382,Alder Facilities,Small Works,Estimator 4,2026-05-05,2026-05-09,Completed,14.8,389.52,1479.47,site_access
+J0383,Crown Property Services,Lighting Upgrade,Estimator 3,2026-07-31,2026-08-07,Completed,86.9,4684.87,11414.64,material_inflation
+J0384,Westway Healthcare,Planned Maintenance,Estimator 4,2026-09-12,2026-09-17,In progress,46.2,531.17,3345.45,normal
+J0385,Westway Healthcare,Installation,Estimator 3,2026-05-30,2026-06-26,Completed,272.8,7355.37,24852.23,site_access
+J0386,Meridian Estates,EICR & Remedials,Estimator 2,2026-06-12,2026-06-17,Completed,32.3,1442.82,4268.69,scope_change
+J0387,Meridian Estates,Installation,Estimator 2,2026-04-13,2026-04-27,Completed,96.7,3383.76,10132.09,normal
+J0388,Ashbrook Schools,Small Works,Estimator 3,2026-08-07,2026-08-09,Completed,15.1,512.58,2074.13,site_access
+J0389,Ashbrook Schools,Small Works,Estimator 3,2026-02-05,2026-02-08,Completed,17.2,1083.69,2488.56,normal
+J0390,Mercury Retail Group,Installation,Estimator 2,2026-07-10,2026-07-30,Completed,266.5,7751.59,21750.72,normal
+J0391,Orion Manufacturing,Lighting Upgrade,Estimator 1,2026-05-09,2026-05-17,Completed,99.6,2608.02,9648.32,normal
+J0392,Canal Utilities,Small Works,Estimator 4,2025-11-11,2025-11-23,Completed,17.6,506.36,1683.98,remedial
+J0393,Northfield Logistics,Small Works,Estimator 3,2026-04-04,2026-04-16,Completed,20.8,949.83,2263.22,normal
+J0394,Westway Healthcare,Small Works,Estimator 1,2026-02-16,2026-02-26,Completed,15.2,1615.36,3093.04,normal
+J0395,Orion Manufacturing,Installation,Estimator 4,2026-05-13,2026-06-05,Completed,170.2,6653.08,17979.81,scope_change
+J0396,Orion Manufacturing,Small Works,Estimator 4,2026-06-06,2026-06-12,Completed,15.1,794.61,2069.56,normal
+J0397,Mercury Retail Group,Small Works,Estimator 2,2026-06-29,2026-07-06,Completed,45.0,628.83,3411.15,normal
+J0398,Meridian Estates,EICR & Remedials,Estimator 4,2026-03-03,2026-03-07,Completed,34.2,938.15,3372.16,normal
+J0399,Orion Manufacturing,Lighting Upgrade,Estimator 4,2026-08-18,2026-09-02,Completed,110.3,3197.09,11028.67,normal
+J0400,Meridian Estates,Planned Maintenance,Estimator 4,2025-11-26,2025-12-04,Completed,75.2,1606.49,6111.37,normal
+J0401,Meridian Estates,EICR & Remedials,Estimator 3,2026-09-10,2026-09-20,In progress,36.0,2474.16,4724.19,normal
+J0402,Alder Facilities,EICR & Remedials,Estimator 2,2026-01-04,2026-01-21,Completed,71.4,817.61,5807.04,estimating_gap
+J0403,Ashbrook Schools,Emergency Callout,Estimator 2,2025-11-03,2025-11-06,Completed,7.6,153.78,748.28,estimating_gap
+J0404,Ashbrook Schools,Emergency Callout,Estimator 3,2026-06-09,2026-06-12,Completed,16.2,122.07,1107.49,normal
+J0405,Canal Utilities,EICR & Remedials,Estimator 2,2026-03-09,2026-03-22,Completed,44.7,703.73,3764.92,scope_change
+J0406,Crown Property Services,Small Works,Estimator 2,2026-06-04,2026-06-13,Completed,18.9,572.33,2103.58,normal
+J0407,Alder Facilities,EICR & Remedials,Estimator 2,2025-12-17,2025-12-23,Completed,38.1,1526.8,4577.17,scope_change
+J0408,Northfield Logistics,Small Works,Estimator 4,2026-08-27,2026-08-31,Completed,10.7,539.57,1486.07,normal
+J0409,Northfield Logistics,Planned Maintenance,Estimator 1,2026-03-01,2026-03-04,Completed,25.0,390.5,1796.76,estimating_gap
+J0410,Greenline Hotels,Installation,Estimator 4,2026-08-09,2026-08-24,Completed,214.6,4218.45,16589.19,material_inflation
+J0411,Alder Facilities,Installation,Estimator 1,2026-07-23,2026-08-05,Completed,109.6,6975.79,15558.67,site_access
+J0412,Greenline Hotels,Emergency Callout,Estimator 2,2025-12-24,2025-12-27,Completed,14.6,296.63,1559.87,estimating_gap
+J0413,Ashbrook Schools,Small Works,Estimator 1,2026-06-07,2026-06-09,Completed,16.5,216.4,1574.54,estimating_gap
+J0414,Orion Manufacturing,Lighting Upgrade,Estimator 1,2026-06-02,2026-06-09,Completed,83.5,2780.09,9355.1,scope_change
+J0415,Westway Healthcare,Planned Maintenance,Estimator 2,2026-05-15,2026-05-25,Completed,20.8,623.77,2090.77,scope_change
+J0416,Alder Facilities,EICR & Remedials,Estimator 4,2026-03-07,2026-03-18,Completed,54.7,324.99,3197.37,remedial
+J0417,Westway Healthcare,Lighting Upgrade,Estimator 3,2026-03-18,2026-03-29,Completed,75.9,2259.13,7323.27,normal
+J0418,Orion Manufacturing,Small Works,Estimator 2,2026-05-31,2026-06-04,Completed,26.3,574.55,2798.11,material_inflation
+J0419,Orion Manufacturing,Small Works,Estimator 1,2025-10-19,2025-10-22,Completed,42.4,512.19,3001.06,normal
+J0420,Greenline Hotels,Planned Maintenance,Estimator 1,2025-12-26,2025-12-31,Completed,38.4,648.99,3044.62,material_inflation
+J0421,Crown Property Services,Planned Maintenance,Estimator 1,2026-06-20,2026-06-28,Completed,44.9,681.72,3642.58,estimating_gap
+J0422,Alder Facilities,Installation,Estimator 1,2026-07-03,2026-07-17,Completed,183.0,8466.3,19657.46,remedial
+J0423,Mercury Retail Group,Emergency Callout,Estimator 3,2026-02-14,2026-02-18,Completed,9.3,164.62,1309.27,normal
+J0424,Crown Property Services,Small Works,Estimator 3,2026-03-29,2026-04-07,Completed,21.2,365.51,1805.95,estimating_gap
+J0425,Greenline Hotels,EICR & Remedials,Estimator 3,2026-07-14,2026-07-20,Completed,40.6,1110.88,3563.74,estimating_gap
+J0426,Canal Utilities,Small Works,Estimator 3,2026-04-29,2026-05-02,Completed,19.7,698.15,2021.63,normal
+J0427,Greenline Hotels,Planned Maintenance,Estimator 3,2026-07-30,2026-08-09,Completed,39.1,573.92,2936.24,normal
+J0428,Northfield Logistics,Planned Maintenance,Estimator 4,2026-04-01,2026-04-10,Completed,33.9,357.23,2571.8,estimating_gap
+J0429,Mercury Retail Group,Planned Maintenance,Estimator 2,2026-05-01,2026-05-15,Completed,51.8,504.25,3845.28,material_inflation
+J0430,Orion Manufacturing,EICR & Remedials,Estimator 1,2025-12-04,2025-12-07,Completed,45.5,1433.04,4582.54,normal
+J0431,Mercury Retail Group,EICR & Remedials,Estimator 2,2026-08-13,2026-08-29,Completed,66.3,980.51,4892.25,scope_change
+J0432,Alder Facilities,Lighting Upgrade,Estimator 4,2026-05-28,2026-06-05,Completed,113.0,3155.89,10208.32,normal
+J0433,Greenline Hotels,Planned Maintenance,Estimator 3,2025-11-27,2025-12-05,Completed,25.8,912.04,2921.77,remedial
+J0434,Northfield Logistics,EICR & Remedials,Estimator 4,2025-10-19,2025-10-31,Completed,39.3,1817.47,4824.22,material_inflation
+J0435,Crown Property Services,Lighting Upgrade,Estimator 1,2026-07-30,2026-08-13,Completed,51.4,2358.23,6222.66,scope_change
+J0436,Canal Utilities,Installation,Estimator 3,2026-01-20,2026-02-14,Completed,253.6,6352.83,21469.92,remedial
+J0437,Northfield Logistics,EICR & Remedials,Estimator 3,2026-05-04,2026-05-11,Completed,36.3,1307.91,4244.29,remedial
+J0438,Crown Property Services,Planned Maintenance,Estimator 1,2025-12-23,2025-12-31,Completed,40.7,439.03,3306.8,normal
+J0439,Greenline Hotels,Installation,Estimator 4,2026-08-20,2026-09-01,Completed,184.2,6354.79,18859.68,normal
+J0440,Alder Facilities,Installation,Estimator 2,2026-05-03,2026-05-22,Completed,163.3,6273.45,18374.64,normal
+J0441,Alder Facilities,Small Works,Estimator 4,2026-05-20,2026-05-24,Completed,11.6,824.98,2129.94,scope_change
+J0442,Crown Property Services,Lighting Upgrade,Estimator 2,2026-04-09,2026-04-18,Completed,51.2,2537.87,6159.08,normal
+J0443,Crown Property Services,Emergency Callout,Estimator 2,2026-09-05,2026-09-10,Completed,6.4,279.88,971.35,remedial
+J0444,Meridian Estates,Small Works,Estimator 4,2025-11-01,2025-11-04,Completed,33.1,798.2,2828.36,normal
+J0445,Canal Utilities,Lighting Upgrade,Estimator 1,2025-12-07,2025-12-27,Completed,105.6,3256.02,9383.15,estimating_gap
+J0446,Greenline Hotels,Small Works,Estimator 4,2026-05-28,2026-06-06,Completed,12.3,664.94,1897.65,estimating_gap
+J0447,Mercury Retail Group,Planned Maintenance,Estimator 4,2026-09-10,2026-09-14,In progress,36.1,691.47,3329.36,complexity
+J0448,Canal Utilities,Installation,Estimator 1,2026-04-11,2026-04-15,Completed,63.2,5486.23,10661.99,normal
+J0449,Northfield Logistics,EICR & Remedials,Estimator 1,2026-02-14,2026-02-21,Completed,27.5,1235.88,3102.37,scope_change
+J0450,Meridian Estates,EICR & Remedials,Estimator 3,2026-07-17,2026-07-25,Completed,71.9,906.14,5348.0,normal
