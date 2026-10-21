@@ -1,0 +1,16 @@
+EngineerID,Engineer,Role,BaseHourlyCost
+E01,Engineer 01,Supervisor,27.305686757333905
+E02,Engineer 02,Supervisor,30.998152109476223
+E03,Engineer 03,Supervisor,28.963427149526186
+E04,Engineer 04,Electrician,21.023335848801214
+E05,Engineer 05,Electrician,23.95813495654385
+E06,Engineer 06,Electrician,24.554662967885932
+E07,Engineer 07,Electrician,22.595523219103598
+E08,Engineer 08,Electrician,21.867950421264943
+E09,Engineer 09,Electrician,22.173535016306502
+E10,Engineer 10,Electrician,21.792933975299285
+E11,Engineer 11,Electrician,21.707054284762364
+E12,Engineer 12,Electrician,21.578062749666767
+E13,Engineer 13,Apprentice,13.68135279637648
+E14,Engineer 14,Apprentice,13.349342272224332
+E15,Engineer 15,Apprentice,14.762582781014157

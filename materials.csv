@@ -1,0 +1,451 @@
+JobID,ActualMaterialCost,Supplier
+J0001,1341.0,Independent Merchant
+J0002,1109.7,Rexel
+J0003,287.71,Edmundson
+J0004,6032.04,Independent Merchant
+J0005,6614.05,City Electrical Factors
+J0006,7003.56,City Electrical Factors
+J0007,838.92,City Electrical Factors
+J0008,971.32,Rexel
+J0009,464.96,Edmundson
+J0010,9923.3,Edmundson
+J0011,210.49,Independent Merchant
+J0012,4169.2,City Electrical Factors
+J0013,437.55,Independent Merchant
+J0014,1318.13,City Electrical Factors
+J0015,508.38,Independent Merchant
+J0016,1234.61,Independent Merchant
+J0017,335.17,City Electrical Factors
+J0018,2091.19,Edmundson
+J0019,441.51,Independent Merchant
+J0020,2231.75,Edmundson
+J0021,334.34,Edmundson
+J0022,325.49,Independent Merchant
+J0023,333.02,City Electrical Factors
+J0024,622.96,Rexel
+J0025,1027.37,Rexel
+J0026,3693.7,Rexel
+J0027,2314.26,Rexel
+J0028,340.87,Edmundson
+J0029,636.69,Edmundson
+J0030,358.66,City Electrical Factors
+J0031,697.05,Independent Merchant
+J0032,915.26,Independent Merchant
+J0033,1346.5,Edmundson
+J0034,2829.94,Independent Merchant
+J0035,424.37,Independent Merchant
+J0036,1231.53,Edmundson
+J0037,4747.49,Rexel
+J0038,2856.97,Independent Merchant
+J0039,754.39,Rexel
+J0040,1122.76,Rexel
+J0041,1735.14,Independent Merchant
+J0042,674.19,Edmundson
+J0043,458.61,City Electrical Factors
+J0044,2173.84,Rexel
+J0045,1201.12,Independent Merchant
+J0046,484.84,Edmundson
+J0047,608.5,Independent Merchant
+J0048,1597.35,Rexel
+J0049,2269.56,Independent Merchant
+J0050,12304.65,Edmundson
+J0051,1677.8,Independent Merchant
+J0052,2877.99,Edmundson
+J0053,933.78,Edmundson
+J0054,747.7,City Electrical Factors
+J0055,267.13,Edmundson
+J0056,735.35,Rexel
+J0057,6135.99,City Electrical Factors
+J0058,439.18,Independent Merchant
+J0059,3722.59,Edmundson
+J0060,1554.98,Rexel
+J0061,565.52,Independent Merchant
+J0062,6020.44,Rexel
+J0063,4918.21,Rexel
+J0064,2846.75,Edmundson
+J0065,854.18,Edmundson
+J0066,723.25,City Electrical Factors
+J0067,786.4,Edmundson
+J0068,1173.39,Edmundson
+J0069,232.88,Independent Merchant
+J0070,6791.76,Rexel
+J0071,2760.8,City Electrical Factors
+J0072,231.46,Edmundson
+J0073,973.19,Independent Merchant
+J0074,404.09,City Electrical Factors
+J0075,366.92,Independent Merchant
+J0076,459.28,Independent Merchant
+J0077,3385.69,Edmundson
+J0078,3291.03,Edmundson
+J0079,501.77,Independent Merchant
+J0080,1039.53,Independent Merchant
+J0081,6326.17,Edmundson
+J0082,1063.49,Edmundson
+J0083,5885.42,Edmundson
+J0084,731.49,City Electrical Factors
+J0085,2410.44,City Electrical Factors
+J0086,4399.92,Independent Merchant
+J0087,2676.32,City Electrical Factors
+J0088,143.24,City Electrical Factors
+J0089,614.35,Rexel
+J0090,10051.43,Edmundson
+J0091,7495.36,Edmundson
+J0092,4671.01,Rexel
+J0093,864.11,Rexel
+J0094,901.83,City Electrical Factors
+J0095,2106.17,Independent Merchant
+J0096,2114.6,Independent Merchant
+J0097,482.88,Independent Merchant
+J0098,1370.14,Rexel
+J0099,886.16,City Electrical Factors
+J0100,2272.08,Independent Merchant
+J0101,860.13,Rexel
+J0102,902.25,City Electrical Factors
+J0103,389.96,City Electrical Factors
+J0104,3032.46,Rexel
+J0105,3027.25,Independent Merchant
+J0106,1651.82,Edmundson
+J0107,7122.23,Rexel
+J0108,547.56,Edmundson
+J0109,156.49,Independent Merchant
+J0110,521.74,Independent Merchant
+J0111,506.58,Independent Merchant
+J0112,692.16,City Electrical Factors
+J0113,653.99,City Electrical Factors
+J0114,459.15,City Electrical Factors
+J0115,431.59,Edmundson
+J0116,285.82,Independent Merchant
+J0117,3149.18,Edmundson
+J0118,1336.2,Edmundson
+J0119,4254.44,Rexel
+J0120,875.58,City Electrical Factors
+J0121,1731.42,Independent Merchant
+J0122,5819.76,Edmundson
+J0123,4118.18,City Electrical Factors
+J0124,1212.91,Independent Merchant
+J0125,287.48,City Electrical Factors
+J0126,4072.8,Independent Merchant
+J0127,815.99,Rexel
+J0128,5156.9,City Electrical Factors
+J0129,663.1,Edmundson
+J0130,3908.45,Edmundson
+J0131,380.54,Independent Merchant
+J0132,3606.38,City Electrical Factors
+J0133,276.81,City Electrical Factors
+J0134,499.44,Independent Merchant
+J0135,6658.56,Rexel
+J0136,630.23,Independent Merchant
+J0137,6320.57,Independent Merchant
+J0138,513.96,Rexel
+J0139,7515.9,Independent Merchant
+J0140,1298.35,Edmundson
+J0141,611.84,City Electrical Factors
+J0142,1653.46,City Electrical Factors
+J0143,4238.28,Rexel
+J0144,5046.39,Edmundson
+J0145,923.87,Edmundson
+J0146,911.37,Rexel
+J0147,1018.36,City Electrical Factors
+J0148,528.56,Independent Merchant
+J0149,1182.83,City Electrical Factors
+J0150,285.48,Independent Merchant
+J0151,2467.47,Independent Merchant
+J0152,969.12,Rexel
+J0153,959.74,Edmundson
+J0154,1822.04,Edmundson
+J0155,10693.01,Independent Merchant
+J0156,405.43,City Electrical Factors
+J0157,1072.57,Independent Merchant
+J0158,732.19,City Electrical Factors
+J0159,1958.94,Edmundson
+J0160,4792.13,Rexel
+J0161,657.41,Independent Merchant
+J0162,2635.12,Edmundson
+J0163,2724.69,Independent Merchant
+J0164,931.13,Independent Merchant
+J0165,302.56,Independent Merchant
+J0166,901.37,Rexel
+J0167,800.32,Edmundson
+J0168,10193.1,Rexel
+J0169,682.71,Rexel
+J0170,535.42,Independent Merchant
+J0171,340.03,Rexel
+J0172,4945.85,Independent Merchant
+J0173,1039.09,Edmundson
+J0174,2654.29,City Electrical Factors
+J0175,1306.55,City Electrical Factors
+J0176,781.94,Independent Merchant
+J0177,956.38,Independent Merchant
+J0178,197.24,Rexel
+J0179,210.87,Edmundson
+J0180,442.09,City Electrical Factors
+J0181,372.8,City Electrical Factors
+J0182,907.69,City Electrical Factors
+J0183,794.07,Rexel
+J0184,6351.87,Rexel
+J0185,16822.88,Independent Merchant
+J0186,568.63,Independent Merchant
+J0187,170.01,Independent Merchant
+J0188,1409.16,Edmundson
+J0189,458.53,Independent Merchant
+J0190,906.01,Independent Merchant
+J0191,2795.66,Rexel
+J0192,888.11,City Electrical Factors
+J0193,340.67,Independent Merchant
+J0194,6407.78,Independent Merchant
+J0195,678.54,Independent Merchant
+J0196,2952.46,Rexel
+J0197,2898.29,City Electrical Factors
+J0198,454.23,Independent Merchant
+J0199,480.06,Rexel
+J0200,2295.82,Edmundson
+J0201,3137.92,Edmundson
+J0202,808.79,City Electrical Factors
+J0203,577.35,City Electrical Factors
+J0204,731.35,Edmundson
+J0205,1001.02,City Electrical Factors
+J0206,132.56,Rexel
+J0207,3046.19,City Electrical Factors
+J0208,2620.29,Independent Merchant
+J0209,639.97,Rexel
+J0210,5563.35,Edmundson
+J0211,8031.11,Edmundson
+J0212,4178.21,Edmundson
+J0213,5147.77,Edmundson
+J0214,159.03,Independent Merchant
+J0215,3232.94,Independent Merchant
+J0216,653.0,City Electrical Factors
+J0217,431.72,City Electrical Factors
+J0218,610.72,Independent Merchant
+J0219,737.24,City Electrical Factors
+J0220,671.75,Independent Merchant
+J0221,373.73,Independent Merchant
+J0222,7061.36,Rexel
+J0223,421.98,Independent Merchant
+J0224,4228.93,Independent Merchant
+J0225,1692.68,Edmundson
+J0226,909.68,City Electrical Factors
+J0227,4134.44,Rexel
+J0228,381.04,Rexel
+J0229,1052.63,Edmundson
+J0230,702.32,Edmundson
+J0231,174.94,Independent Merchant
+J0232,4765.4,Independent Merchant
+J0233,2630.04,Edmundson
+J0234,123.36,Rexel
+J0235,7253.58,Edmundson
+J0236,1677.46,Edmundson
+J0237,704.54,Rexel
+J0238,798.78,City Electrical Factors
+J0239,726.06,Rexel
+J0240,329.59,Rexel
+J0241,666.11,Edmundson
+J0242,613.13,City Electrical Factors
+J0243,797.83,City Electrical Factors
+J0244,4432.5,Edmundson
+J0245,633.32,Rexel
+J0246,2988.27,City Electrical Factors
+J0247,547.24,Rexel
+J0248,701.08,Rexel
+J0249,898.04,Independent Merchant
+J0250,1733.56,Edmundson
+J0251,395.39,Edmundson
+J0252,3443.45,Independent Merchant
+J0253,1460.58,Independent Merchant
+J0254,1031.78,Independent Merchant
+J0255,296.19,Edmundson
+J0256,844.92,City Electrical Factors
+J0257,851.78,City Electrical Factors
+J0258,6327.95,Edmundson
+J0259,334.34,City Electrical Factors
+J0260,341.9,Independent Merchant
+J0261,371.06,Independent Merchant
+J0262,1809.38,City Electrical Factors
+J0263,5990.68,Rexel
+J0264,563.34,City Electrical Factors
+J0265,787.13,Rexel
+J0266,4102.23,City Electrical Factors
+J0267,2981.3,City Electrical Factors
+J0268,716.87,Independent Merchant
+J0269,3753.1,Edmundson
+J0270,5208.63,Rexel
+J0271,2291.05,Rexel
+J0272,665.08,Independent Merchant
+J0273,791.13,Edmundson
+J0274,755.92,City Electrical Factors
+J0275,3220.01,Edmundson
+J0276,3013.13,Rexel
+J0277,892.91,Edmundson
+J0278,484.35,Independent Merchant
+J0279,643.77,Edmundson
+J0280,1821.88,Rexel
+J0281,812.14,City Electrical Factors
+J0282,1427.84,City Electrical Factors
+J0283,1800.97,City Electrical Factors
+J0284,639.54,City Electrical Factors
+J0285,480.36,City Electrical Factors
+J0286,310.8,Independent Merchant
+J0287,895.98,Rexel
+J0288,3601.61,City Electrical Factors
+J0289,386.76,Edmundson
+J0290,1376.73,Edmundson
+J0291,412.17,City Electrical Factors
+J0292,562.8,Edmundson
+J0293,1187.2,Rexel
+J0294,801.07,Rexel
+J0295,750.34,Independent Merchant
+J0296,5888.75,Edmundson
+J0297,1083.62,Independent Merchant
+J0298,6261.26,City Electrical Factors
+J0299,1925.81,City Electrical Factors
+J0300,1058.26,Independent Merchant
+J0301,2037.26,Independent Merchant
+J0302,3280.68,Independent Merchant
+J0303,572.7,Rexel
+J0304,523.9,Edmundson
+J0305,1181.06,City Electrical Factors
+J0306,1417.49,Rexel
+J0307,384.99,City Electrical Factors
+J0308,5575.68,Independent Merchant
+J0309,1886.62,Edmundson
+J0310,510.35,City Electrical Factors
+J0311,126.34,City Electrical Factors
+J0312,2720.33,Independent Merchant
+J0313,2600.85,Independent Merchant
+J0314,486.08,City Electrical Factors
+J0315,3977.81,Rexel
+J0316,2721.33,Independent Merchant
+J0317,829.64,Edmundson
+J0318,207.25,Independent Merchant
+J0319,320.48,Rexel
+J0320,204.64,Independent Merchant
+J0321,4741.83,City Electrical Factors
+J0322,817.55,Independent Merchant
+J0323,792.9,Rexel
+J0324,341.5,Rexel
+J0325,2576.15,Edmundson
+J0326,1836.31,City Electrical Factors
+J0327,802.82,Independent Merchant
+J0328,788.56,Rexel
+J0329,4491.75,Independent Merchant
+J0330,1204.19,Rexel
+J0331,491.66,Edmundson
+J0332,2050.12,Independent Merchant
+J0333,3012.73,Rexel
+J0334,1142.49,Rexel
+J0335,783.48,Rexel
+J0336,3565.92,Independent Merchant
+J0337,602.85,Rexel
+J0338,1110.25,City Electrical Factors
+J0339,537.96,City Electrical Factors
+J0340,615.35,Edmundson
+J0341,1369.16,Edmundson
+J0342,7305.34,Independent Merchant
+J0343,183.74,Rexel
+J0344,225.92,Rexel
+J0345,7120.79,Independent Merchant
+J0346,83.99,City Electrical Factors
+J0347,829.2,Edmundson
+J0348,2559.08,Rexel
+J0349,904.7,Rexel
+J0350,7582.19,Independent Merchant
+J0351,843.4,Edmundson
+J0352,994.85,City Electrical Factors
+J0353,636.46,City Electrical Factors
+J0354,916.68,City Electrical Factors
+J0355,6352.79,City Electrical Factors
+J0356,2687.19,Independent Merchant
+J0357,444.22,Independent Merchant
+J0358,815.69,Edmundson
+J0359,5033.37,City Electrical Factors
+J0360,1042.92,City Electrical Factors
+J0361,555.68,Rexel
+J0362,7385.29,Rexel
+J0363,670.42,Edmundson
+J0364,648.32,City Electrical Factors
+J0365,4401.05,City Electrical Factors
+J0366,808.99,Rexel
+J0367,11945.33,City Electrical Factors
+J0368,4008.95,Edmundson
+J0369,10032.84,Edmundson
+J0370,4248.19,Independent Merchant
+J0371,784.38,City Electrical Factors
+J0372,421.05,Independent Merchant
+J0373,1840.9,Rexel
+J0374,1545.18,Independent Merchant
+J0375,993.75,Edmundson
+J0376,4895.9,Independent Merchant
+J0377,1400.58,Independent Merchant
+J0378,1566.16,Edmundson
+J0379,996.81,City Electrical Factors
+J0380,1539.71,Rexel
+J0381,4585.98,Edmundson
+J0382,307.11,City Electrical Factors
+J0383,7352.07,City Electrical Factors
+J0384,538.68,Independent Merchant
+J0385,7239.43,Edmundson
+J0386,1427.86,Edmundson
+J0387,3325.84,Rexel
+J0388,530.08,Rexel
+J0389,887.62,City Electrical Factors
+J0390,7741.47,Independent Merchant
+J0391,2364.06,City Electrical Factors
+J0392,558.43,Edmundson
+J0393,760.01,Rexel
+J0394,1788.7,Rexel
+J0395,6263.36,City Electrical Factors
+J0396,844.6,City Electrical Factors
+J0397,494.57,Rexel
+J0398,858.47,Independent Merchant
+J0399,2664.4,Rexel
+J0400,1606.02,City Electrical Factors
+J0401,2057.07,Rexel
+J0402,788.55,Edmundson
+J0403,136.59,Edmundson
+J0404,111.08,Independent Merchant
+J0405,586.67,Edmundson
+J0406,515.99,City Electrical Factors
+J0407,1385.37,Independent Merchant
+J0408,591.83,Edmundson
+J0409,310.63,Rexel
+J0410,5052.55,Edmundson
+J0411,6101.24,City Electrical Factors
+J0412,327.96,Rexel
+J0413,240.05,Rexel
+J0414,2411.55,Independent Merchant
+J0415,544.06,City Electrical Factors
+J0416,326.17,Independent Merchant
+J0417,2058.35,Edmundson
+J0418,742.81,Rexel
+J0419,501.3,Independent Merchant
+J0420,777.75,City Electrical Factors
+J0421,745.13,Independent Merchant
+J0422,7897.43,Independent Merchant
+J0423,172.88,Rexel
+J0424,401.88,Rexel
+J0425,987.98,Edmundson
+J0426,777.16,Independent Merchant
+J0427,487.26,Edmundson
+J0428,360.01,City Electrical Factors
+J0429,644.77,City Electrical Factors
+J0430,1586.16,Edmundson
+J0431,1030.87,City Electrical Factors
+J0432,2484.06,Edmundson
+J0433,764.02,Edmundson
+J0434,2205.5,Edmundson
+J0435,2177.72,Independent Merchant
+J0436,6427.61,Rexel
+J0437,1363.31,Rexel
+J0438,406.53,Independent Merchant
+J0439,6389.63,Independent Merchant
+J0440,6846.92,City Electrical Factors
+J0441,660.61,City Electrical Factors
+J0442,2392.53,Edmundson
+J0443,223.19,Independent Merchant
+J0444,794.26,Rexel
+J0445,3174.27,City Electrical Factors
+J0446,705.19,Rexel
+J0447,542.43,City Electrical Factors
+J0448,4936.08,Independent Merchant
+J0449,1234.05,Edmundson
+J0450,1013.09,City Electrical Factors
